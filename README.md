@@ -18,7 +18,7 @@ The Bangalore Hospital Data Scraper is a Python-based application that utilizes 
 - Python
 - Selenium
 - Pandas
-- 
+
 ## Usage and Setup:
 
 1) Clone the repository to your local machine.
